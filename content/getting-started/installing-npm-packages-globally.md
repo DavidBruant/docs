@@ -14,7 +14,7 @@ There are two ways to install npm packages: locally or globally. You choose whic
 To download packages globally, you simply use the command `npm install -g <package>`, e.g.:
 
 ```
-npm install -g jshint
+npm install -g eslint
 ```
 
 If you get an EACCES error, [see Chapter 3](/getting-started/fixing-npm-permissions). 
